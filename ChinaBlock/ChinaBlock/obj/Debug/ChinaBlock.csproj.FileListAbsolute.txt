@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\bin\Debug\ChinaBlock.exe
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\bin\Debug\ChinaBlock.pdb
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.about.resources
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.Form1.resources
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.help.resources
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.Properties.Resources.resources
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.setBlockColor.resources
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.setGameFieldBgColor.resources
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.exe
+C:\Users\User\Desktop\ChinaBlock\ChinaBlock\obj\Debug\ChinaBlock.pdb
